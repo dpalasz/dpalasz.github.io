@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## WWitam na mojej stronie
 
-You can use the [editor on GitHub](https://github.com/dpalasz/dpalasz.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Pod tym [link](https://github.com/dpalasz/dpalasz.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Wprowadzenie
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
