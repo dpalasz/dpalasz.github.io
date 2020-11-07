@@ -1,15 +1,10 @@
-## WWitam na mojej stronie
-
-Pod tym [link](https://github.com/dpalasz/dpalasz.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Witam na mojej stronie
+ 
+ Nazwyam się Dominik. Moje zainteresowania to sport, muzyka oraz oczywiście komputery.
 
 ### Wprowadzenie
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+ Klikając w ten [odnośnik](https://github.com/dpalasz/) przejdziesz do mojego profilu na github.com
 
 # Header 1
 ## Header 2
