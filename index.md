@@ -4,5 +4,5 @@
 
 ### Wprowadzenie
 
- Klikając w ten [odnośnik](https://https://github.com/dpalasz?tab=repositories) przejdziesz do mojego repozytorium które znajduje się na stronie github.com, gdzie w przyszłości znajdziesz wiele ciekawych i interesujących projektów :)
+ Klikając w ten [odnośnik](https://github.com/dpalasz?tab=repositories) przejdziesz do mojego repozytorium które znajduje się na stronie github.com, gdzie w przyszłości znajdziesz wiele ciekawych i interesujących projektów :)
 
